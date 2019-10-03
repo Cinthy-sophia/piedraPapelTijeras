@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PiedraPapelTijera</string>
+    <string name="rockpaperorscissors">Piedra, papel o tijera</string>
+    <string name="scissors">Tijera</string>
+    <string name="paper">Papel</string>
+    <string name="rock">Piedra</string>
+    <string name="restart">Reiniciar</string>
+    <string name="youWin">Has ganado!</string>
+    <string name="youLose">Has perdido</string>
+
+</resources>
